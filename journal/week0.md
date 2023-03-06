@@ -5,6 +5,10 @@
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
+![Highly Original High Effort Conceptual Diagram](assets/Cruddur-Conceptual-Diagram.png)
+
+[Conceptual Follow-Along Diagram Link](https://lucid.app/lucidchart/a620a0c4-17ef-4697-bf9d-0e312701b361/edit?viewport_loc=-11%2C66%2C1935%2C961%2C0_0&invitationId=inv_9eda1340-2683-4c68-ad04-af47c55ab27b)
+
 ### Recreate Logical Architectual Diagram in Lucid Charts
 
 ![Logical Diagram](assets/Cruddur%20Logical%20Diagram.png)
@@ -17,7 +21,3 @@ I created a $10 budget and immediately triggered the alarm buying domains. In sp
 along and added the CLI jsons to my repo but did not execute them.   
 
 [My Budget Alarm](assets/BudgetAlarmHomework.png)
-
-### Install AWS CLI
-
-

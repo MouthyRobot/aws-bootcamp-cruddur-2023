@@ -20,4 +20,4 @@
 I created a $10 budget and immediately triggered the alarm buying domains. In spite of that I only created the one budget to limit spend until necessary. I followed 
 along and added the CLI jsons to my repo but did not execute them.   
 
-[My Budget Alarm](assets/BudgetAlarmHomework.png)
+![My Budget Alarm](assets/BudgetAlarmHomework.png)
